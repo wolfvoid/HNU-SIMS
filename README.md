@@ -1,4 +1,4 @@
-# HNU_SIMS
+# HNU-SIMS
 
 HNU - School Information Management System (2023Winter for a Course Project)
 
@@ -18,6 +18,8 @@ HNU - School Information Management System (2023Winter for a Course Project)
 本程序使用Java编写，使用eclipse进行开发，数据库使用MySQL数据库搭配Navicat进行数据管理，程序使用JDBC技术进行数据库连接，使用JavaSwing开发图形化界面，整个系统界面美观、功能丰富。本系统点击首页的“更换外观”按钮可切换不同风格的外观，系统分为4个模式，学生模式、教师模式、宿管模式和系统管理员模式，分别面向学生、教师、宿管和系统管理员，不同的模式有不同的功能。
 
 本系统功能完善且丰富(增加了将系统内的各种信息导出为excel文件的功能)，程序检错能力强，界面简洁。由于时间有限，代码可能有冗余。
+
+在编写时有参考github开源项目，感谢前辈。
 
 ![](E-R图.png)
 
